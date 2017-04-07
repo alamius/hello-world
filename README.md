@@ -10,6 +10,6 @@ Languages.in_order_of_learning = {
 	Python,
 	C++,
 	Java,
-  HTML, 
+	HTML, 
 	JS: p5.js
 	}
